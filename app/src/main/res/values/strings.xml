@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Draw Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_drawing">ShowDrawing</string>
+</resources>

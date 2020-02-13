@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.drawmap.MainActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:icon="@mipmap/ic_save"
+        android:orderInCategory="100"
+        android:title="Salvar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_clear"
+        android:icon="@mipmap/ic_clear"
+        android:orderInCategory="100"
+        android:title="Limpar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_list_drawings"
+        android:icon="@mipmap/ic_list_drawings"
+        android:orderInCategory="100"
+        android:title="Desenhos"
+        app:showAsAction="ifRoom" />
+
+</menu>
